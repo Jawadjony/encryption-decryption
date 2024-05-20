@@ -12,5 +12,5 @@ This is a Python application for encrypting and decrypting text using AES, DES, 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/encryption-decryption-app.git
+   git clone https://github.com/jawadjony/encryption-decryption-app.git
    cd encryption-decryption-app
